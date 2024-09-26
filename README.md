@@ -1,12 +1,10 @@
-# Prueba Técnica: Configuración de un Proyecto de Cypress
-
-Este documento describe los pasos necesarios para arrancar un proyecto de pruebas automatizadas utilizando Cypress con npm.
+# Prueba Técnica QA: KAIRA
 
 ## Requisitos Previos
 
 Asegúrate de tener instalados los siguientes elementos en tu sistema:
 
-- [Node.js](https://nodejs.org/) (versión 12 o superior)
+- [Node.js](https://nodejs.org/) (Preferiblemente 21.1.0 o superior)
 - npm (generalmente se instala junto con Node.js)
 
 ## Pasos para Arrancar el Proyecto
