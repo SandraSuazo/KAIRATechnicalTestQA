@@ -8,15 +8,13 @@ Asegúrate de tener instalados los siguientes elementos en tu sistema:
 - npm (generalmente se instala junto con Node.js)
 
 ## Pasos para Arrancar el Proyecto
-1. ***Descargar el proyecto de la siguiente URL***
+1. Descargar el proyecto de la siguiente URL
 - https://github.com/SandraSuazo/KAIRATechnicalTestQA
 2. Navega hacia la carpeta del proyecto
-3. Ejecuta: ```npm install```
+3. Ejecuta: ```npm i```
 4. Ejecuta: ```npm run test```
 
-
-
-***Los test que he incluido para la validación precisa del formulario basado en la URL son los siguientes:***
+## Los test que he incluido para la validación precisa del formulario basado en la URL son los siguientes:
 
    - **Coherencia con la historia de usuario:** Verificar que el formulario cumple con los requerimientos de la historia de usuario. Es decir, comprobar que no se solicitan datos innecesarios y que los campos obligatorios tienen un propósito alineado con los objetivos del producto.
    
